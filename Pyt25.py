@@ -8,9 +8,14 @@ def fun1(x, n):
     else:
         z = 0
     return z
+
+
+def fun61():
+    return "My name is James"
          
 
 
 print("Ma alustan uuesti")
 print("Fun = ", fun(3))
 print("Fun1 ", fun1(36, 12))
+print(fun61())
